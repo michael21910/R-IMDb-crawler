@@ -9,7 +9,7 @@ git clone https://github.com/michael21910/R-IMDb-crawler.git
 * run this on RGUI
 
 ## What will you get :icecream:
-A output of the name and ranking of the movie according to the link you put in the code "name_url" and "score_url"
+A output of the name and ranking of the movie according to the link you put in the code "name_url" and "score_url" from [HERE](https://www.imdb.com/)
 
 ## License
 [MIT](LICENSE) © Tsuen Hsueh
